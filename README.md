@@ -23,7 +23,7 @@ virtualenv >= 16.4.3
 ### Setup
 Create virtual environment
 ```
-git clone https://github.com/work-hard-play-harder/SCP_DAE.git
+git clone https://github.com/shilab/SCP_DAE.git
 cd SCP_DAE
 mkdir venv
 python3 -m venv venv/
